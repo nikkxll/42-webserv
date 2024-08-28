@@ -213,6 +213,10 @@ autoindex on
 upload on
 ```
 
+## Results
+
+✅ Passed with 125/100 ✅
+
 ### Usage
 
 To run the program with default setting of the config
